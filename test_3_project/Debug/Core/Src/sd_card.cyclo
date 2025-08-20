@@ -1,0 +1,6 @@
+../Core/Src/sd_card.c:10:16:SPI_TxRx	1
+../Core/Src/sd_card.c:16:13:SD_SendDummyClocks	2
+../Core/Src/sd_card.c:30:16:SD_SendCommandEx	6
+../Core/Src/sd_card.c:58:5:SD_Init	11
+../Core/Src/sd_card.c:137:5:SD_ReadBlocks	8
+../Core/Src/sd_card.c:170:5:SD_WriteBlocks	7

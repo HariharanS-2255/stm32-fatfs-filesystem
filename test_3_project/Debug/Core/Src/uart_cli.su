@@ -1,0 +1,5 @@
+../Core/Src/uart_cli.c:18:6:UART_CLI_Init	16	static
+../Core/Src/uart_cli.c:33:6:UART_CLI_Process	904	static
+../Core/Src/uart_cli.c:247:13:UART_CLI_ShowHelp	8	static
+../Core/Src/uart_cli.c:262:6:UART_CLI_Printf	152	static
+../Core/Src/uart_cli.c:271:6:HAL_UART_RxCpltCallback	24	static

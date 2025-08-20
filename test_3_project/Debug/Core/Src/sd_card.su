@@ -1,0 +1,6 @@
+../Core/Src/sd_card.c:10:16:SPI_TxRx	32	static
+../Core/Src/sd_card.c:16:13:SD_SendDummyClocks	24	static
+../Core/Src/sd_card.c:30:16:SD_SendCommandEx	48	static
+../Core/Src/sd_card.c:58:5:SD_Init	104	static
+../Core/Src/sd_card.c:137:5:SD_ReadBlocks	48	static
+../Core/Src/sd_card.c:170:5:SD_WriteBlocks	48	static
